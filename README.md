@@ -9,11 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ism676" target="blank"><img src="https://img.shields.io/twitter/follow/ism676?logo=twitter&style=for-the-badge" alt="ism676" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel, JavaScript, React, Bootstrap**
-
-- 💬 Ask me about **Java, Css, Html, MySql**
-
-- 📫 How to reach me **676ism@gmail.com**
+- 📫 How to reach me **ismailhilmi@email.com**
 
 - ⚡ Fun fact **I love Coffee ☕**
 
